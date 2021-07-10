@@ -1,0 +1,44 @@
+body {
+    color: white;
+    background-color: darkblue;
+    font-family: Trebuchet MS, sans-serif;
+  }
+  
+  button {
+    background-color: darkblue;
+    border-radius: 4px;
+    border: 1px solid;
+    width: 25%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  .start {
+    background-size: cover;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+  }
+  
+  nav ul li {
+    list-style: none;
+  }
+  
+  #buttonBlue {
+    background-color: blue;
+  }
+  
+  #buttonBlueviolet {
+    background-color: blueviolet;
+  }
+  
+  #buttonPurple {
+    background-color: purple;
+  }
+  #buttonPink {
+    background-color: pink;
+  }
